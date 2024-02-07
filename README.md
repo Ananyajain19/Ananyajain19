@@ -11,7 +11,7 @@
   </div>
   <div>
 <li>
- <b>Name 🧑‍🎓:</b> Ananya Jain, yeah you heard it right!
+ <b>Name 🧑‍🎓:</b> Ananya Jain!
   </li>
 <li>
 <b>Loves 🫀:</b> drama, music, food <3
