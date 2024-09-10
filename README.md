@@ -23,7 +23,7 @@
 <b>Hobbys 🧑‍💻:</b> Tech Stuff, Problem solving, Web Development
 </li>
 <li>
-<b>Working 💻@</b> naah just studying stuff
+<b>Working 💻
 </li>
   </div>
 <br><br><br>
